@@ -76,9 +76,7 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dharasavjani99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharasavjani99&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dharasavjani99&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
@@ -91,20 +89,11 @@
 
 </p>
 
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dharasavjani99&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
 ## 💻 Coding Profiles
 
 <p align="center">
 
-<a href="https://codeforces.com/profile/dharasavjani99">
+<a href="https://codeforces.com/profile/Dhara2008">
 <img src="https://img.shields.io/badge/Codeforces-Visit_Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
