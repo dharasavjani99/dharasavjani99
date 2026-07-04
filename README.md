@@ -1,15 +1,27 @@
-<h1 align="center">
-Hi 👋 I'm Dhara Savjani
-</h1>
+<div align="center">
 
-<h3 align="center">
-B.Tech CSE Student | AI & ML Enthusiast | Passionate Learner
-</h3>
+# Hi 👋, I'm Dhara Savjani
 
-## 👩‍💻 About Me
+### 💻 B.Tech CSE Student | AI & ML Enthusiast | Passionate Learner
 
-- 🎓 Second Year B.Tech CSE Student
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 💻 Learning Data Structures, Algorithms and Web Development
-- 🌱 Currently exploring Open Source
-- 🚀 Goal: Become a Software Engineer
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Building+cool+stuff+with+code.;Breaking+it,+fixing+it,+learning+daily+🚀;Exploring+AI+%7C+ML+%7C+DSA.;Always+curious,+always+coding." alt="Typing SVG" />
+
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/dhara-savjani-26450a3a2" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:dharasavjani99@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/dharasavjani99">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
