@@ -79,10 +79,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharasavjani99&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=dharasavjani99&theme=radical&hide_border=true" />
-</p>
-
 
 ## 🔥 GitHub Streak
 
