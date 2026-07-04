@@ -72,12 +72,15 @@
 - 🌐 Modern Web Development
 - 🚀 Open Source Contributions
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dharasavjani99&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharasavjani99&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dharasavjani99&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=dharasavjani99&theme=radical&hide_border=true" />
 </p>
 
 
@@ -88,6 +91,13 @@
 <img src="https://streak-stats.demolab.com?user=dharasavjani99&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharasavjani99&theme=react-dark&hide_border=true"/>
+</p>
+
 
 ## 💻 Coding Profiles
 
