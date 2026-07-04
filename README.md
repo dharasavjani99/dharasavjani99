@@ -21,6 +21,11 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
+
+<br clear="right"/>
+<a href="https://github.com/dharasavjani99">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+
 ## 👩‍💻 About Me
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
@@ -32,9 +37,6 @@
 - 🚀 My goal is to become a skilled Software Engineer while contributing to open-source projects.
 - ⚡ **Fun Fact:** I enjoy turning bugs into lessons. Every error is just another puzzle waiting to be solved.
 
-<br clear="right"/>
-<a href="https://github.com/dharasavjani99">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
 
 ## 🛠️ Tech Stack
 
